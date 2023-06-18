@@ -1,0 +1,7 @@
+Do you want to learn python using text to speech? Well, if so you are on the right place. Python is a general purpose, dynamic, high-level, 
+and interpreted programming language. It supports Object Oriented programming approach to develop applications. It is simple and easy to 
+learn and provides lots of high-level data structures.
+Python's syntax and dynamic typing with its interpreted nature make it an ideal language for scripting and rapid application development.
+Python supports multiple programming pattern, including object-oriented, imperative, and functional or procedural programming styles.
+Unlike the other programming languages, Python provides the facility to execute the code using few lines. 
+For example - Suppose we want to print the "Hello World" program in Java; it will take three lines to print it.
